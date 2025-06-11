@@ -42,7 +42,7 @@ Banking Program
 4. Exit
 ***************
 Enter your choice (1-4):
-
+```
 ## 🙋‍♀️ Made By
 
 Mini project by **Tanvi** 🌸  
